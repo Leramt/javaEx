@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18e9abc2-ad06-48ce-99a0-c5a45817438e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hs9IFbQARecOg8VpKz5wEnfBJo" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18e9abc2-ad06-48ce-99a0-c5a45817438e" name="Default Changelist" comment="" />
+      <created>1600788850560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600788850560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="231" y="56" width="811" height="669" key="#Project_Structure" timestamp="1600811957289">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="231" y="56" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1600811957289" />
+    <state x="251" y="77" key="#Project_Structure/24.23.1256.777@24.23.1256.777" timestamp="1600794014706" />
+    <state x="252" y="77" width="811" height="669" key="#Project_Structure/25.23.1255.777@25.23.1255.777" timestamp="1600788879168" />
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog" timestamp="1600811100994">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1600811100994" />
+    <state x="329" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1600788864417">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="329" y="244" key="com.intellij.ide.util.TipDialog/25.23.1255.777@25.23.1255.777" timestamp="1600788864417" />
+  </component>
+</project>
