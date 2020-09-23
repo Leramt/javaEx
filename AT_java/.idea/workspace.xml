@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1hs9IFbQARecOg8VpKz5wEnfBJo" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -58,9 +61,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="178" y="62" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1600811100994" />
-    <state x="329" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1600788864417">
+    <state x="329" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1600844620962">
       <screen x="25" y="23" width="1255" height="777" />
     </state>
-    <state x="329" y="244" key="com.intellij.ide.util.TipDialog/25.23.1255.777@25.23.1255.777" timestamp="1600788864417" />
+    <state x="329" y="244" key="com.intellij.ide.util.TipDialog/25.23.1255.777@25.23.1255.777" timestamp="1600844620962" />
   </component>
 </project>
